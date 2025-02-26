@@ -1,1 +1,1 @@
-this is my first project going to  github to local
+this is my first project going to github to local
